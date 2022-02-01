@@ -1,0 +1,91 @@
+[
+  {
+    "id": 1,
+    "name": "flare"
+  },
+  {
+    "id": 2,
+    "name": "analytics",
+  },
+  {
+    "id": 3,
+    "name": "cluster",
+  },
+  {
+    "id": 4,
+    "name": "AgglomerativeCluster",
+    "size": 3938
+  },
+  {
+    "id": 5,
+    "name": "CommunityStructure",
+    "size": 3812
+  },
+  {
+    "id": 6,
+    "name": "HierarchicalCluster",
+    "size": 6714
+  },
+  {
+    "id": 7,
+    "name": "MergeEdge",
+    "size": 743
+  },
+  {
+    "id": 8,
+    "name": "graph",
+  },
+  {
+    "id": 9,
+    "name": "BetweennessCentrality",
+    "size": 3534
+  },
+  {
+    "id": 10,
+    "name": "LinkDistance",
+    "size": 5731
+  },
+  {
+    "id": 11,
+    "name": "MaxFlowMinCut",
+    "size": 7840
+  },
+  {
+    "id": 12,
+    "name": "ShortestPaths",
+    "size": 5914
+  },
+  {
+    "id": 13,
+    "name": "SpanningTree",
+    "size": 3416
+  },
+  {
+    "id": 14,
+    "name": "optimization",
+  },
+  {
+    "id": 15,
+    "name": "AspectRatioBanker",
+    "size": 7074
+  },
+  {
+    "id": 16,
+    "name": "animate",
+  },
+  {
+    "id": 17,
+    "name": "Easing",
+    "parent": 16,
+    "size": 17010
+  },
+  {
+    "id": 18,
+    "name": "FunctionSequence",
+    "size": 5842
+  },
+  {
+    "id": 19,
+    "name": "interpolate",
+  }
+]
