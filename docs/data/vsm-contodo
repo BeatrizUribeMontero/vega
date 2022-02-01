@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "name": "Ted"
+  },
+  {
+    "id": 2,
+    "name": "Robin",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "Marshall",
+    "parent": 2
+    "size": 3938
+  },
+  {
+    "id": 4,
+    "name": "Lily",
+    "parent": 3,
+    "size": 3938
+  },
+  {
+    "id": 5,
+    "name": "Marvin",
+    "parent": 4,
+    "size": 3812
+  },
+  {
+    "id": 6,
+    "name": "Tracy",
+    "parent": 2,
+    "size": 6714
+  },
+  {
+    "id": 7,
+    "name": "Stella",
+    "parent": 6,
+    "size": 743
+  },
+  {
+    "id": 8,
+    "name": "Karma",
+    "parent": 7
+    "size": 3938
+  },
+  {
+    "id": 9,
+    "name": "Barney",
+    "parent": 2
+    "size": 3938
+  }
+]
