@@ -1,0 +1,108 @@
+[
+  {
+    "id": 1,
+    "name": "Uno"
+  },
+  {
+    "id": 2,
+    "name": "Dos",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "Tres",
+    "parent": 1
+  },
+  {
+    "id": 4,
+    "name": "Cuatro",
+    "parent": 1,
+    "size": 3938
+  },
+  {
+    "id": 5,
+    "name": "Cinco",
+    "parent": 1,
+    "size": 3812
+  },
+  {
+    "id": 6,
+    "name": "Seis",
+    "parent": 1,
+    "size": 6714
+  },
+  {
+    "id": 7,
+    "name": "Siete",
+    "parent": 1,
+    "size": 743
+  },
+  {
+    "id": 8,
+    "name": "Ocho",
+    "parent": 1
+  },
+  {
+    "id": 9,
+    "name": "Nueve",
+    "parent": 1,
+    "size": 3534
+  },
+  {
+    "id": 10,
+    "name": "Diez",
+    "parent": 1,
+    "size": 5731
+  },
+  {
+    "id": 11,
+    "name": "Once",
+    "parent": 1,
+    "size": 7840
+  },
+  {
+    "id": 12,
+    "name": "Doce",
+    "parent": 1,
+    "size": 5914
+  },
+  {
+    "id": 13,
+    "name": "Trece",
+    "parent": 1,
+    "size": 3416
+  },
+  {
+    "id": 14,
+    "name": "Catorce",
+    "parent": 1
+  },
+  {
+    "id": 15,
+    "name": "Quince",
+    "parent": 1,
+    "size": 7074
+  },
+  {
+    "id": 16,
+    "name": "Dieciseis",
+    "parent": 1
+  },
+  {
+    "id": 17,
+    "name": "Diecisiete",
+    "parent": 1,
+    "size": 17010
+  },
+  {
+    "id": 18,
+    "name": "Dieciocho",
+    "parent": 1,
+    "size": 5842
+  },
+  {
+    "id": 19,
+    "name": "Diecinueve",
+    "parent": 1
+  }
+]
