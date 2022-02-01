@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Ted"
+  },
+  {
+    "id": 2,
+    "name": "Robin",
+  },
+  {
+    "id": 3,
+    "name": "Marshall",
+  },
+  {
+    "id": 4,
+    "name": "Lily",
+  },
+  {
+    "id": 5,
+    "name": "Marvin",
+  },
+  {
+    "id": 6,
+    "name": "Tracy",
+  },
+  {
+    "id": 7,
+    "name": "Stella",
+  },
+  {
+    "id": 8,
+    "name": "Karma",
+  },
+  {
+    "id": 9,
+    "name": "Barney",
+  }
+]
